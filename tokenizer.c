@@ -2,7 +2,7 @@
 
 /**
 * tokenizer - creates tokens from given input
-* @line: to be tokenized
+* @line: line to be tokenized
 *
 * Return: array of strings
 */
