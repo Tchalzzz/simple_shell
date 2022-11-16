@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
-* _putchar - writes the character c to stdout
+* _putchar - writes the character C to stdout stream
 * @c: The character to print
 *
 * Return: On success 1.
