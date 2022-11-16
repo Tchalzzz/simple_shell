@@ -5,7 +5,7 @@
 * @command: tokenized commands
 * @line: input read from stdin
 *
-* Return: 1 if executed, 0 if not
+* Return: 1 if execution is successful, 0 if not
 */
 int handle_builtin(char **command, char *line)
 {
